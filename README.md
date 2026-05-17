@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>极速文件搜索工具</strong> · 基于 NTFS MFT，毫秒级索引，Everything 风格界面<br>
+  <strong>极速文件搜索工具</strong> · 基于 NTFS MFT，毫秒级索引，极速原生风格界面<br>
   <em>Lightning-fast file search utility based on NTFS MFT, millisecond-level indexing</em>
 </p>
 
@@ -30,8 +30,8 @@
 - ⚡ **Millisecond Search** — Reads NTFS MFT directly, no directory traversal needed
 - 🚀 **即时启动** — 首次索引后直接加载缓存，开机即搜
 - 🚀 **Instant Startup** — Loads cached index on launch, search immediately
-- 🎯 **Everything 风格界面** — 熟悉的交互体验，零学习成本
-- 🎯 **Everything-style UI** — Familiar UX, zero learning curve
+- 🎯 **极速原生风格界面** — 熟悉的交互体验，零学习成本
+- 🎯 **Super-fast original style UI** — Familiar UX, zero learning curve
 - 🔍 **实时搜索** — 输入即搜索，支持文件名快速匹配
 - 🔍 **Real-time Search** — Search-as-you-type with filename matching
 - 📋 **右键菜单** — 打开文件、打开所在文件夹、复制路径、复制文件名
