@@ -1,7 +1,7 @@
 # FastThing ⚡
 
 <p align="center">
-  <img src="[https://github.com/Hans-Zhou-001/FastThing/app.ico](https://raw.githubusercontent.com/Hans-Zhou-001/FastThing/refs/heads/main/app.ico?token=GHSAT0AAAAAAD5LKK4THF3CLAJPD5OR5ZD42QJMK4A)" width="64" alt="FastThing Icon"/>
+  <img src="https://github.com/Hans-Zhou-001/FastThing/blob/main/%E5%9B%BE%E6%A0%87%E5%8F%82%E8%80%83%E5%9B%BE.png" width="64" alt="FastThing Icon"/>
 </p>
 
 <p align="center">
