@@ -1,0 +1,7 @@
+C:\src\fastthing\publish-standalone\FastThing.pdb
+C:\src\fastthing\publish-standalone\D3DCompiler_47_cor3.dll
+C:\src\fastthing\publish-standalone\PenImc_cor3.dll
+C:\src\fastthing\publish-standalone\PresentationNative_cor3.dll
+C:\src\fastthing\publish-standalone\vcruntime140_cor3.dll
+C:\src\fastthing\publish-standalone\wpfgfx_cor3.dll
+C:\src\fastthing\publish-standalone\FastThing.exe
